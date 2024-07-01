@@ -1,0 +1,13 @@
+.timeline {
+  display: flex;
+  flex-direction: row;
+}
+.timeLine-left {
+  flex: 0.7;
+}
+.timeLine-rigt {
+  flex: 0.3;
+}
+.timeline-posts {
+  margin-right: 20px;
+}
